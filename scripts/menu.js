@@ -50,7 +50,7 @@ function fetchMealByCategory(categoryName = "Breakfast") {
 fetchMealByCategory();
 
 function goInfoPage(id){
-  window.location.href = '/pages/info.html';
+  window.location.href = '/food/pages/info.html';
 
 
   localStorage.setItem('foodId',id)
