@@ -1,0 +1,83 @@
+.black-header {
+    background: #474747;
+    padding: 10px 0;
+
+    * {
+        color: white;
+    }
+}
+
+.black-header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.black-l,
+.black-r {
+    display: flex;
+}
+
+.black-l {
+    gap: 25px;
+    p span {
+        margin-right: 10px;
+        vertical-align: middle;
+    }
+}
+
+.black-r {
+    gap: 4px;
+}
+
+.black-r div {
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    background: #f9f9f712;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-bottom {
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 0;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+nav {
+    display: flex;
+    gap: 8px;
+}
+nav a {
+    padding: 4px 16px;
+    border-radius: 34px;
+    transition: background ease 0.4s;
+    width: 77px;
+    height: 32px;
+}
+nav a:hover {
+    background: #DBDFD0;
+}
+
+.Meal {
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 42px; 
+    line-height: 29px;
+    padding-left: 10px;
+}
+.btn button {
+    width: 148px;
+    height: 48px;
+    border: 1.5px solid #2C2F24;
+    border-radius: 118px;
+    color: #2C2F24;
+    background: #ffffff;
+}

@@ -1,0 +1,196 @@
+
+.info {
+    text-align: center;
+    h2 {
+        font-size: 55px;
+        margin-bottom: 35px;
+    }
+    img {
+        display: block;
+        margin-bottom: 26px;
+        margin: auto;
+    }
+}
+
+.ings h2 {
+    text-align: center;
+}
+
+.ings-images {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+    h4 {
+        color: #AD343E;
+        font-size: 18px;
+        font-weight: 700;
+        font-family: "DM Sans", sans-serif;
+
+    }
+
+    div {
+        width: 150px;
+        text-align: center;
+        img {
+            width: 100%;
+        }
+    }
+}
+
+.ins h2{
+    text-align: center;
+}
+.line {
+    height: 30px;
+}
+
+.footer {
+    height: 778px;
+    width: 1600px;
+    background-color: #474747;
+    margin: 150px auto;
+    padding-top: 100px;
+}
+.footer-1 {
+    width: 1296px;
+    height: 430px;
+    margin-left: 152px;
+    display: flex;
+}
+.h4-footer {
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 600;
+    font-family: "Playfair Display", serif;
+    color: #ffffff;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.meal-footer {
+    display: flex;
+    padding-bottom: 30px;
+}
+.footer-p, .footer-p2, .footer-p3 {
+    color: #ADB29E;
+    font-family: "DM Sans", sans-serif;
+}
+.footer-img {
+    padding-top: 20px;
+    display: flex;
+    gap: 15px;
+}
+.twit {
+    background: #AD343E;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#twiter {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.contact {
+    width: 330px;
+    height: 400px;
+    margin-left: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.Pages {
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "DM Sans", sans-serif;    
+}
+.Utility {
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "DM Sans", sans-serif;    
+}
+.home {
+    padding-top: 30px;
+    font-weight: 400;
+    color: #DBDFD0;
+    font-family: "DM Sans", sans-serif;  
+}
+.About, .Menu, .Pricing, .Blog, .Contact, .Delivery{
+    color: #DBDFD0;
+    font-weight: 400;
+    font-family: "DM Sans", sans-serif;  
+    padding-top: 30px;
+}
+.Start-Here, .Styleguide, .Password, .Found, .Licenses, .Changelog, .View {
+    color: #DBDFD0;
+    font-weight: 400;
+    font-family: "DM Sans", sans-serif;  
+    padding-top: 30px;
+}
+
+.Follow {
+    width: 403px;
+    height: 419px;
+    margin-left: 120px;
+}
+.Follow-h4 {
+    font-weight: 700;
+    color: #ffffff;
+}
+.egg {
+    padding-top: 50px;
+    display: flex;
+}
+.egg1 {
+    height: 170px;
+    width: 194px;
+    background-image: url(/images/egg.png);
+    border-radius: 12px;
+}
+.egg2 {
+    height: 170px;
+    width: 194px;
+    background-image: url(/images/potato-2.png);
+    border-radius: 12px;
+    margin-left: 20px;
+}
+
+.egg3 {
+    display: flex;
+    margin-top: 20px;
+}
+
+.lunch {
+    height: 170px;
+    width: 194px;
+    background-image: url(/images/lunch2.png);
+    border-radius: 12px;
+    margin-right: 20px;
+}
+.pancake {
+    height: 170px;
+    width: 194px;
+    background-image: url(/images/pancake.png);
+    border-radius: 12px;
+}
+.footer-end {
+    width: 1296px;
+    height: 54px;
+}
+.footer-end {
+    height: 54px;
+    width: 1296px;
+    border-top: 1px solid #FFFFFF;
+    margin:  90px auto;
+    h4 {
+        font-weight: 400;
+        color: #ADB29E;
+        padding-top: 30px;
+        font-family: "DM Sans", sans-serif; 
+        display: flex;
+        justify-content: center
+    }
+}
