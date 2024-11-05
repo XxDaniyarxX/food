@@ -147,13 +147,13 @@
 .egg1 {
     height: 170px;
     width: 194px;
-    background-image: url(/images/egg.png);
+    background-image: url(../images/egg.png);
     border-radius: 12px;
 }
 .egg2 {
     height: 170px;
     width: 194px;
-    background-image: url(/images/potato-2.png);
+    background-image: url(../images/potato-2.png);
     border-radius: 12px;
     margin-left: 20px;
 }
@@ -166,14 +166,14 @@
 .lunch {
     height: 170px;
     width: 194px;
-    background-image: url(/images/lunch2.png);
+    background-image: url(../images/lunch2.png);
     border-radius: 12px;
     margin-right: 20px;
 }
 .pancake {
     height: 170px;
     width: 194px;
-    background-image: url(/images/pancake.png);
+    background-image: url(../images/pancake.png);
     border-radius: 12px;
 }
 .footer-end {
