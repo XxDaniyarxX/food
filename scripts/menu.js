@@ -39,7 +39,7 @@ function fetchMealByCategory(categoryName = "Breakfast") {
             <h5>$ 7.25</h5>
             <p>${food.strMeal}</p>
          </div>
-       </div>            
+         </div>            
            `
       }
     })
@@ -50,7 +50,7 @@ function fetchMealByCategory(categoryName = "Breakfast") {
 fetchMealByCategory();
 
 function goInfoPage(id){
-  window.location.href = '/food/pages/info.html';
+  window.location.href = '/info.html';
 
 
   localStorage.setItem('foodId',id)
